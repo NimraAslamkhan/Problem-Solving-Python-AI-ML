@@ -29,5 +29,4 @@ Each day includes:
 ---
 
 
-│
-└── README.md
+
