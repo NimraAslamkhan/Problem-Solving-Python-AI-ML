@@ -71,5 +71,4 @@ Each day includes:
 - 🟨 Completed
 
 
-[Day 1](https://github.com/yourusername/30-days-problem-solving/tree/main/Day01)
 
