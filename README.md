@@ -34,8 +34,8 @@ Each day includes:
 
 | Day | Python Topic | AI/ML Topic | Progress | Link |
 |-----|--------------|-------------|----------|------|
-| 1 | Variables & Input | Data Cleaning | ⬜ ✅ Completed | [Day 1](https://github.com/NimraAslamkhan/Problem-Solving-Python-AI-ML/blob/main/day1_python_exercises_.ipynb) |
-| 2 | Loops | Missing Values Handling | Not Started | [Day 2](https://github.com/NimraAslamkhan/Problem-Solving-Python-AI-ML/blob/main/day_2_python_execise.ipynb) |
+| 1 | Variables & Input | Data Cleaning | ✅ Completed | [Day 1](https://github.com/NimraAslamkhan/Problem-Solving-Python-AI-ML/blob/main/day1_python_exercises_.ipynb) |
+| 2 | Loops | Missing Values Handling | ✅ Completed | [Day 2](https://github.com/NimraAslamkhan/Problem-Solving-Python-AI-ML/blob/main/day_2_python_execise.ipynb) |
 | 3 | Conditional Statements | Feature Scaling | ⬜ Not Started | [Day 3](#) |
 | 4 | Lists | Train-Test Split | ⬜ Not Started | [Day 4](#) |
 | 5 | Dictionaries | Classification Basics | ⬜ Not Started | [Day 5](#) |
