@@ -71,4 +71,10 @@ Each day includes:
 - 🟨 Completed
 
 
+Python (loops, OOP, functions)
+ML-related coding (NumPy, Pandas)
 
+Platforms:
+
+LeetCode (easy → medium)
+HackerRank
