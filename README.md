@@ -28,7 +28,7 @@ Each day includes:
 
 ---
 
-# 30 Days Python + AI/ML Problem Solving Challenge
+# Python + AI/ML Problem Solving Challenge
 
 ## Daily Topics Plan & Progress Tracker
 
