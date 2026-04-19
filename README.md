@@ -38,7 +38,7 @@ Each day includes:
 | 2 | Loops | Missing Values Handling | ✅ Completed | [Day 2](https://github.com/NimraAslamkhan/Problem-Solving-Python-AI-ML/blob/main/day_2_python_execise.ipynb) |
 | 3 | Conditional Statements | Feature Scaling |  ✅ Completed | [Day 3](https://github.com/NimraAslamkhan/Problem-Solving-Python-AI-ML/blob/main/day_3_of_pythob_exercise.ipynb) |
 | 4 | Lists | Train-Test Split | ✅ Completed | [Day 4](https://github.com/NimraAslamkhan/Problem-Solving-Python-AI-ML/blob/main/day4_of_python_coding_list.ipynb) |
-| 5 | Dictionaries | Classification Basics | ⬜ Not Started | [Day 5](#) |
+| 5 | Dictionaries | Classification Basics | ✅ Completed  | [Day 5](https://github.com/NimraAslamkhan/Problem-Solving-Python-AI-ML/blob/main/exercies_practice.ipynb) |
 | 6 | Functions | Regression Basics | ⬜ Not Started | [Day 6](#) |
 | 7 | Strings | Overfitting vs Underfitting | ⬜ Not Started | [Day 7](#) |
 | 8 | Recursion | Cross Validation | ⬜ Not Started | [Day 8](#) |
