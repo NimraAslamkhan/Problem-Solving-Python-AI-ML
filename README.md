@@ -1,7 +1,7 @@
-# 30 Days Problem Solving Challenge: Python + AI/ML
+#  Problem Solving Challenge: Python + AI/ML
 
 ## Overview
-This repository contains my **30-Day Problem Solving Challenge**:
+This repository contains my **Solving Challenge**:
 - **1 Python coding problem**
 - **1 AI/ML problem-solving task**
 
@@ -64,17 +64,70 @@ Each day includes:
 | 28 | NumPy Arrays | Text Vectorization | ⬜ Not Started | [Day 28](#) |
 | 29 | Matplotlib | LLM/RAG Introduction | ⬜ Not Started | [Day 29](#) |
 | 30 | Final Coding Challenge | End-to-End ML Pipeline | ⬜ Not Started | [Day 30](#) |
+| 31 | Arrays (Basics + Easy Problems) | Data Preprocessing | Load dataset + cleaning | ⬜ |
+| 32 | Arrays (Practice) | Feature Scaling | Data pipeline | ⬜ |
+| 33 | Arrays (Medium Problems) | Train-Test Split | Preprocessing pipeline | ⬜ |
+| 34 | Arrays (Advanced Problems) | Evaluation Metrics | Apply metrics | ⬜ |
+| 35 | Strings (Basics) | Precision, Recall, F1 | Evaluate model | ⬜ |
+| 36 | Two Pointers 🔥 | Logistic Regression (Theory) | Train model | ⬜ |
+| 37 | Sliding Window 🔥 | Logistic Regression (Code) | Model evaluation | ⬜ |
+| 38 | Binary Search | Decision Trees (Theory) | Add model | ⬜ |
+| 39 | Binary Search Problems | Decision Trees (Code) | Compare models | ⬜ |
+| 40 | Recursion | Random Forest | Improve accuracy | ⬜ |
+| 41 | Linked List (Basics) | KNN | Experiment models | ⬜ |
+| 42 | Linked List Problems | SVM (Theory) | Apply SVM | ⬜ |
+| 43 | Stack + Queue | SVM (Code) | Model comparison | ⬜ |
+| 44 | Hashing 🔥 | Naive Bayes | Final model selection | ⬜ |
+| 45 | Prefix Sum 🔥 | Hyperparameter Tuning | Improve performance | ⬜ |
+| 46 | Kadane’s Algorithm 🔥 | GridSearchCV | Tune model | ⬜ |
+| 47 | Mixed Problems | PCA | Dimensionality reduction | ⬜ |
+| 48 | Practice Set | Clustering Basics | Add clustering insight | ⬜ |
+| 49 | Medium Problems | K-Means | Visualization | ⬜ |
+| 50 | Hard Problems | Gradient Boosting | Upgrade model | ⬜ |
+| 51 | Revision Day | XGBoost | Final ML model | ⬜ |
+| 52 | Mixed Practice | NLP Basics | Text preprocessing | ⬜ |
+| 53 | Timed Practice | TF-IDF / Vectorization | NLP feature | ⬜ |
+| 54 | Mock Problems | RAG Introduction 🔥 | Start RAG system | ⬜ |
+| 55 | Weak Areas | Embeddings | Implement RAG | ⬜ |
+| 56 | Revision | LLM Basics | Improve RAG system | ⬜ |
+| 57 | Mock Interview | FastAPI | Deploy API | ⬜ |
+| 58 | Final Revision | System Design Basics | Final polish | ⬜ |
+| 59 | Full Mock Test | Interview Prep | Fix weak areas | ⬜ |
+| 60 | Apply Jobs | Portfolio Finalization | Job Applications | ⬜ |
 
-## Progress Legend
-- ✅ Not Started
-- 🟨 In Progress
-- 🟨 Completed
+---
+
+## 🔥 DSA Topics Covered
+- Arrays
+- Strings
+- Two Pointers
+- Sliding Window
+- Binary Search
+- Recursion
+- Linked List
+- Stack / Queue
+- Hashing
+- Prefix Sum
+- Kadane’s Algorithm
+
+---
+
+## 🤖 ML Topics Covered
+- Data Preprocessing
+- Feature Engineering
+- Evaluation Metrics
+- Regression Models
+- Classification Models
+- Ensemble Methods
+- Clustering
+- PCA
+- NLP Basics
+- RAG Systems
+- LLM Basics
+- Deployment (FastAPI)
+
+---
 
 
-Python (loops, OOP, functions)
-ML-related coding (NumPy, Pandas)
 
-Platforms:
-
-LeetCode (easy → medium)
-HackerRank
+---
